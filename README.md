@@ -23,16 +23,5 @@ This is a weather application built with HTML, CSS, and JavaScript that provides
 3. If the city name is invalid or the input is empty, an error message is displayed.
 4. The app shows weather details including temperature, humidity, and wind speed, with a relevant weather icon.
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/7d7e0b18-da57-4952-8a11-6af4718a2792)
 
-### Prerequisites
-
-- Basic understanding of HTML, CSS, and JavaScript.
-- An API key from [OpenWeatherMap](https://openweathermap.org/api).
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
-   ```
